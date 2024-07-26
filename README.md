@@ -33,4 +33,4 @@ I'm Alejandro Reilly
 
 <h2> How To Reach Me 📫:</h2>
 
-<a href="mailto:iamalexreilly@gmail.com.com">![iamalexreilly@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:iamalexreilly@gmail.com.com">![iamalexreilly@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="www.linkedin.com/in/alejandro-reilly-479655268">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
