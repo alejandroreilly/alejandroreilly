@@ -30,8 +30,3 @@ I'm Alejandro Reilly
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroreilly" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
-
-<!---
-alejandroreilly/alejandroreilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
