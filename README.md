@@ -1,6 +1,6 @@
 ![Alejandro Reilly Banner Image](./images/github-header-image.png)
 
-<h2>Hey guys!👋</h2>
+<h2>Hey Guys!👋</h2>
 
 I'm Alejandro Reilly
 - <i>Currently:</i> Third-Year Computer Science and Engineering Honors Student @ The University of Connecticut (UConn).
