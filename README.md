@@ -2,7 +2,7 @@
 
 <h2>Hey Guys!👋</h2>
 
-I'm Alejandro Reilly
+I'm Alejandro Reilly, and I'm looking to gain hands-on experience in the world of Software Engineering!
 - <i>Currently:</i> Third-Year Computer Science and Engineering Honors Student @ The University of Connecticut (UConn).
 - <i>Employed As:</i> Student Systems Administrator @ UConn.
 
