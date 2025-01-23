@@ -5,6 +5,7 @@
 I'm Alejandro Reilly, and I'm looking to gain hands-on experience in the world of Software Engineering!
 - <i>Currently:</i> Third-Year Computer Science and Engineering Honors Student @ The University of Connecticut (UConn).
 - <i>Employed As:</i> Student Systems Administrator @ UConn, CS Teaching Assistant @ UConn.
+                 </i> Teaching Assistant for Data Structures and Algorithms @ UConn
 - <i>Upcoming Employment:</i> Software Engineering Intern @ Lockheed Martin (Sikorsky)
 
 <h2> I'm Currently Learning 📚: </h2>
