@@ -20,19 +20,19 @@ I'm Alejandro Reilly, and I'm looking to gain hands-on experience in the world o
 
 
 
-<h2> Stats 👀:</h2>
+<!--<h2> Stats 👀:</h2>
 
 <div>
 <!--   <p align="center">
     <b><em>Now listening to:</em></b> <br/>
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=lakshmanan.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
+  </p> 
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroreilly" alt="GitHub Stats" /> <br/><br/>
   </p>
-</div>
+</div> -->
 
 <h2> How To Reach Me 📫:</h2>
 
