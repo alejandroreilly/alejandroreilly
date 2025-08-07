@@ -4,15 +4,15 @@
 
 I'm Alejandro Reilly, and I'm looking to gain hands-on experience in the world of Software Engineering!
 - <i>Currently:</i> Fourth-Year Computer Science and Engineering Honors Student @ The University of Connecticut (UConn).
-- <i>Employed As:</i> Summer Software Engineering Intern @ Lockheed Martin (Sikorsky)
-- <i>Upcoming Employment:</i> Student Systems Administrator @ UConn, Data Structures Teaching Assistant @ UConn.
+- <i>Employed As:</i> Part-Time Software Engineering Intern @ Lockheed Martin (Sikorsky)
+- <i>Upcoming Employment:</i> Software Engineering Teaching Assistant @ UConn.
 
 <h2> I'm Currently Learning 📚: </h2>
 
-- <i>CSE 3504:</i> Probabilistic Performance Analysis of Computer Systems
-- <i>CSE 3150:</i> C++ Essentials
-- <i>CSE 3000:</i> Conceptual Issues Within Computer Science
-- <i>MATH 2210:</i> Linear Algebra
+- <i>CSE 3160:</i> Functional Programming
+- <i>CSE 4939W:</i> Senior CSE Design
+- <i>CSE 4099:</i> CSE Independent Study
+- <i>MATH 3410:</i> Differential Equations for Applications
 
 <h2> Programming Languages and Technologies 💻:</h2>
 
