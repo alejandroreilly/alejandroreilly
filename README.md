@@ -3,14 +3,14 @@
 <h2>Hey Guys!👋</h2>
 
 I'm Alejandro Reilly
-- <i>Currently:</i> Third-Year Computer Science and Engineering Honors Student @ The University of Connecticut (UConn).
-- <i>Employed As:</i> Student Systems Administrator @ UConn.
+- <i>Currently:</i> Fourth-Year Computer Science and Engineering Honors Student @ The University of Connecticut (UConn).
+- <i>Employed As:</i> Software Engineering Intern @ Sikorsky.
 
 <h2> I'm Currently Learning 📚: </h2>
 
-- <i>CSE 2102:</i> Software Engineering
-- <i>CSE 3140:</i> Cybersecurity Lab
-- <i>CSE 3666:</i> Computer Architecture
+- <i>CSE 4102:</i> Programming Language Theory
+- <i>CSE 4940:</i> Senior Design for Computer Science
+- <i>CSE 4701:</i> Introduction to Databases
 
 <h2> Programming Languages and Technologies 💻:</h2>
 
