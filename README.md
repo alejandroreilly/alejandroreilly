@@ -2,7 +2,6 @@
 
 <h2>Hey Guys!👋</h2>
 
-<<<<<<< HEAD
 I'm Alejandro Reilly
 - <i>Currently:</i> Fourth-Year Computer Science and Engineering Honors Student @ The University of Connecticut (UConn).
 - <i>Employed As:</i> Part-Time Software Engineering Intern @ Sikorsky.
